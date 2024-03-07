@@ -46,8 +46,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Tools & Technologies:</h3>
 
 ###
@@ -116,8 +114,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Databases:</h3>
 
 ###
@@ -135,8 +131,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">Operating Systems:</h3>
 
