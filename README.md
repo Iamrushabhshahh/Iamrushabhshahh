@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Based in Ahmedabad, Gujarat, India, I'm currently honing my skills as a Jr. DevOps Engineer at KodeKloud, leveraging over an year plus of hands-on experience in cloud technologies and DevOps practices. A B.Tech graduate in Information Technology from the Parul Institute of Engineering and Technology, I'm passionate about making a positive impact through technology, advancing open source software, and fostering community growth.</p>
+<p align="left">Based in Ahmedabad, Gujarat, India, I'm currently honing my skills as a Jr. DevOps Engineer, leveraging over an year plus of hands-on experience in cloud technologies and DevOps practices. A B.Tech graduate in Information Technology from the Parul Institute of Engineering and Technology, I'm passionate about making a positive impact through technology, advancing open source software, and fostering community growth.</p>
 
 ###
 
