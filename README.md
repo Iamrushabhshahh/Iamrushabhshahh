@@ -2,7 +2,14 @@
 
 DevOps Engineer at [Orocorp](https://github.com/orocorp), where infrastructure meets fintech compliance. [Docker Captain](https://www.docker.com/contributors/rushabh-shah/) and [Grafana Champion](https://grafana.com/community/champions-full-list/?pg=community-champions&plcmt=pill-banner#:~:text=Rushabh%20Shah,LinkedIn). I co-organize [Docker Ahmedabad](https://www.meetup.com/docker-ahmedabad/) and [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/), and I write about Kubernetes, observability and on-call life at [rushabhshah.dev](https://rushabhshah.dev).
 
-**Upcoming talks:** FluxCon NA (9 Nov) · Open Source Summit Japan (8 Dec) · Open Compliance Summit (11 Dec). [All talks →](https://rushabhshah.dev/speaking/)
+### Talks
+
+- **PromCon EU 2026, Munich:** From Buckets to Native Histograms: Lessons from a Production Migration, co-presented with Shivani Rathod. [Watch my segment ▶](https://www.youtube.com/watch?v=BDryNblRXUE&t=18240s)
+- **FluxCon NA 2026, Salt Lake City (9 Nov):** Your Git Repo Is Not a Backup: Kubernetes disaster recovery with Flux and Velero
+- **Open Source Summit Japan 2026, Tokyo (8 Dec):** Closing the Ma (間): filling the gaps in Kubernetes visibility with Headlamp
+- **Open Compliance Summit 2026, Tokyo (11 Dec):** A Tag Is a Lie: why digest pinning is a control, not a best practice
+
+Also volunteered at KCD Gujarat 2026. [All talks on Sessionize →](https://sessionize.com/iamrushabhshahh/)
 
 ### Things I've built
 
@@ -14,6 +21,8 @@ DevOps Engineer at [Orocorp](https://github.com/orocorp), where infrastructure m
 | [cloud-native-explained](https://github.com/Iamrushabhshahh/cloud-native-explained) | A guided path through cloud native, where every acronym is explained before it's used. |
 
 ### Upstream work
+
+All of it in one place on my [CNCF ContribCard](https://contribcard.cncf.io/iamrushabhshahh) and [LFX profile](https://openprofile.dev/profile/iamrushabhshahh).
 
 - **Kubernetes:** Hindi translations of the [Kubernetes docs](https://github.com/kubernetes/website/pulls?q=author%3Aiamrushabhshahh)
 - **eBPF:** translated the whole [ebpf.io site into Hindi](https://ebpf.io/hi-in/)
