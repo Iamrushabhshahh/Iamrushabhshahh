@@ -26,10 +26,10 @@ DevOps Engineer at [Orocorp](https://github.com/orocorp), where infrastructure m
 
 <!-- BLOG-POST-LIST:START -->
 - [A hostname that never existed took Redis and Postgres down with it](https://rushabhshah.dev/blog/dns-storm-eai-again/)
-- [India's first heritage city, Gujarat's first KCD](https://rushabhshah.dev/blog/kcd-gujarat-2026-ahmedabad-guide/)
+- [India&#39;s first heritage city, Gujarat&#39;s first KCD](https://rushabhshah.dev/blog/kcd-gujarat-2026-ahmedabad-guide/)
 - [Prometheus PCA and OpenTelemetry OTCA, reviewed](https://rushabhshah.dev/blog/pca-otca-review/)
 - [CKA exam day: PSI bridge, terminal, kubectl aliases](https://rushabhshah.dev/blog/cka-exam-day-setup/)
-- [Kubernetes v1.37 (Garhwal): 52 forts, 67 changes, and what actually breaks](https://rushabhshah.dev/blog/kubernetes-v1-37-garhwal/)
+- [Kubernetes v1.37 &lpar;Garhwal&rpar;: 52 forts, 67 changes, and what actually breaks](https://rushabhshah.dev/blog/kubernetes-v1-37-garhwal/)
 <!-- BLOG-POST-LIST:END -->
 
 [More posts →](https://rushabhshah.dev/blog/)
