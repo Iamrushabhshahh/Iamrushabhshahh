@@ -1,45 +1,40 @@
-## Rushabh Shah
+## Hey, I'm Rushabh
 
-**DevOps Engineer · [Docker Captain](https://www.docker.com/contributors/rushabh-shah/) · [Grafana Champion](https://grafana.com/community/champions-full-list/?pg=community-champions&plcmt=pill-banner#:~:text=Rushabh%20Shah,LinkedIn)**
+I started in 2023 as a Laravel trainee, wandered into the DevOps team, and never left. These days I run production Kubernetes at [Orocorp](https://github.com/orocorp), a gold-loan fintech, where infrastructure has to keep the auditors happy as well as the users. Most of my day is GitOps with Flux and Argo CD, and observability with Prometheus, Grafana, Loki, Tempo and OpenTelemetry.
 
-I run production Kubernetes at [Orocorp](https://github.com/orocorp), a fintech in Ahmedabad, India. My work is GitOps with Flux and Argo CD, and observability with Prometheus, Grafana, Loki, Tempo and OpenTelemetry. I write about what I run at [rushabhshah.dev](https://rushabhshah.dev).
+I'm a [Docker Captain](https://www.docker.com/contributors/rushabh-shah/) and a [Grafana Champion](https://grafana.com/community/champions-full-list/?pg=community-champions&plcmt=pill-banner#:~:text=Rushabh%20Shah,LinkedIn), and I write about the things I run (and occasionally break) at [rushabhshah.dev](https://rushabhshah.dev).
 
-### 🎤 Talks
+### Where I'm speaking
 
-| When | Event | Talk |
+My first community talk was Grafana 101 at a meetup in Ahmedabad, in May 2024. This year the talks started travelling.
+
+| When | Where | What |
 |---|---|---|
-| 8 Oct 2026 | PromCon EU, Munich | From Buckets to Native Histograms: Lessons from a Production Migration · [▶ Watch](https://www.youtube.com/watch?v=BDryNblRXUE&t=18240s) |
-| 9 Nov 2026 | FluxCon NA, Salt Lake City | Your Git Repo Is Not a Backup: Kubernetes DR with Flux and Velero |
-| 8 Dec 2026 | Open Source Summit Japan, Tokyo | Closing the Ma (間): Filling the Gaps in Kubernetes Visibility with Headlamp |
-| 11 Dec 2026 | Open Compliance Summit, Tokyo | A Tag Is a Lie |
+| Oct 2026 | PromCon EU, Munich | From Buckets to Native Histograms: Lessons from a Production Migration ([recording](https://www.youtube.com/watch?v=BDryNblRXUE&t=18240s)) |
+| Nov 2026 | FluxCon NA, Salt Lake City | Your Git Repo Is Not a Backup: Kubernetes disaster recovery with Flux and Velero |
+| Dec 2026 | Open Source Summit Japan, Tokyo | Closing the Ma (間): Filling the Gaps in Kubernetes Visibility with Headlamp |
+| Dec 2026 | Open Compliance Summit, Tokyo | A Tag Is a Lie |
 
-[All talks and abstracts on Sessionize →](https://sessionize.com/iamrushabhshahh/)
+The abstracts are on [Sessionize](https://sessionize.com/iamrushabhshahh/). If you run an event and want one of these, I'm happy to talk.
 
-### 🌱 Open source
+### Upstream
 
-- **Kubernetes:** [Hindi translations of the docs](https://github.com/kubernetes/website/pulls?q=author%3Aiamrushabhshahh)
-- **eBPF:** translated [ebpf.io into Hindi](https://ebpf.io/hi-in/)
-- **Valkey:** [valkey-helm](https://github.com/valkey-io/valkey-helm/pulls?q=author%3Aiamrushabhshahh) and [iovalkey](https://github.com/valkey-io/iovalkey/pulls?q=author%3Aiamrushabhshahh)
-- **Helm:** [docs fixes on helm.sh](https://github.com/helm/helm-www/pulls?q=author%3Aiamrushabhshahh+is%3Amerged)
-- **KusionStack:** [kusion](https://github.com/KusionStack/kusion/pulls?q=author%3Aiamrushabhshahh), [karpor](https://github.com/KusionStack/karpor/pulls?q=author%3Aiamrushabhshahh) and [charts](https://github.com/KusionStack/charts/pulls?q=author%3Aiamrushabhshahh)
-- **Docker:** [a Playwright mixin kit](https://github.com/docker/sbx-kits-contrib/pull/138) for Docker sandbox kits
+A lot of my open source work is translation and docs. I translated [ebpf.io into Hindi](https://ebpf.io/hi-in/) and I'm doing the same for the [Kubernetes docs](https://github.com/kubernetes/website/pulls?q=author%3Aiamrushabhshahh). I also send fixes to [Valkey's Helm chart](https://github.com/valkey-io/valkey-helm/pulls?q=author%3Aiamrushabhshahh), [iovalkey](https://github.com/valkey-io/iovalkey/pulls?q=author%3Aiamrushabhshahh), [helm.sh](https://github.com/helm/helm-www/pulls?q=author%3Aiamrushabhshahh+is%3Amerged), [KusionStack](https://github.com/KusionStack/kusion/pulls?q=author%3Aiamrushabhshahh) and [Docker's sandbox kits](https://github.com/docker/sbx-kits-contrib/pull/138).
 
-Everything in one place: [CNCF ContribCard](https://contribcard.cncf.io/iamrushabhshahh) · [LFX profile](https://openprofile.dev/profile/iamrushabhshahh)
+The full list lives on my [CNCF ContribCard](https://contribcard.cncf.io/iamrushabhshahh) and [LFX profile](https://openprofile.dev/profile/iamrushabhshahh).
 
-### 🛠️ Things I've built
+### Things I've built for myself
 
-| Project | What it does |
-|---|---|
-| [openobserve-playground](https://github.com/Iamrushabhshahh/openobserve-playground) | Trace your AI coding agent on your laptop: OpenObserve in one command, with dashboards and an MCP server |
-| [whoop-monitoring](https://github.com/Iamrushabhshahh/whoop-monitoring) | WHOOP recovery, sleep and strain data in OpenObserve, with dashboards and alerts |
-| [slack-actions-notify](https://github.com/Iamrushabhshahh/slack-actions-notify) | A GitHub Action that posts your runs, builds and deploys to Slack |
-| [cloud-native-explained](https://github.com/Iamrushabhshahh/cloud-native-explained) | A guided path through cloud native, where every acronym is explained before it's used |
+- [openobserve-playground](https://github.com/Iamrushabhshahh/openobserve-playground): I wanted to see what my AI coding agent was actually doing, so this traces it on your laptop with OpenObserve in one command.
+- [whoop-monitoring](https://github.com/Iamrushabhshahh/whoop-monitoring): my WHOOP sleep, recovery and strain data in OpenObserve, with dashboards and alerts.
+- [slack-actions-notify](https://github.com/Iamrushabhshahh/slack-actions-notify): a small GitHub Action that tells Slack when your builds and deploys finish.
+- [cloud-native-explained](https://github.com/Iamrushabhshahh/cloud-native-explained): for anyone who opened the CNCF landscape, saw a thousand logos and closed the tab.
 
-### 🤝 Community
+### Around Ahmedabad
 
-Co-organiser of [Docker Ahmedabad](https://www.meetup.com/docker-ahmedabad/) and [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/), core team at CNCG Gandhinagar, and volunteer at KCD Gujarat 2026. Giving your first talk? [Book 20 minutes](https://calendar.app.google/fFL7eubAdig7KZJo9) and I'll help with the slides.
+I co-organise [Docker Ahmedabad](https://www.meetup.com/docker-ahmedabad/) and [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/), I'm on the CNCG Gandhinagar core team, and I volunteered at KCD Gujarat this year. If you want to give your first talk, [grab 20 minutes with me](https://calendar.app.google/fFL7eubAdig7KZJo9) and I'll help with the slides.
 
-### ✍️ Latest from the blog
+### Recently on the blog
 
 <!-- BLOG-POST-LIST:START -->
 - [A hostname that never existed took Redis and Postgres down with it](https://rushabhshah.dev/blog/dns-storm-eai-again/)
@@ -51,4 +46,6 @@ Co-organiser of [Docker Ahmedabad](https://www.meetup.com/docker-ahmedabad/) and
 
 ---
 
-[Website](https://rushabhshah.dev) · [LinkedIn](https://www.linkedin.com/in/iamrushabhshahh/) · [X](https://x.com/iamrushabhshahh) · [YouTube](https://www.youtube.com/@iamrushabhshahh) · [Sessionize](https://sessionize.com/iamrushabhshahh/) · [Credly](https://www.credly.com/users/iamrushabhshahh)
+Find me on [LinkedIn](https://www.linkedin.com/in/iamrushabhshahh/), [X](https://x.com/iamrushabhshahh) or [YouTube](https://www.youtube.com/@iamrushabhshahh).
+
+*We observe, so we don't get observed.*
