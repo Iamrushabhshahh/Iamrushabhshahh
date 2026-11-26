@@ -4,7 +4,7 @@ I make cloud native easier to learn.
 
 **DevOps Engineer · [Docker Captain](https://www.docker.com/contributors/rushabh-shah/) · [Grafana Champion](https://grafana.com/community/champions-full-list/?pg=community-champions&plcmt=pill-banner#:~:text=Rushabh%20Shah,LinkedIn)**
 
-I run production Kubernetes at [Orocorp](https://github.com/orocorp), a fintech in Ahmedabad, India. My work is GitOps with Flux and Argo CD, and observability with Prometheus, Grafana, Loki, Tempo and OpenTelemetry. I write about what I run at [rushabhshah.dev](https://rushabhshah.dev).
+I run production Kubernetes at a fintech in Ahmedabad, India. My work is GitOps with Flux and Argo CD, and observability with Prometheus, Grafana, Loki, Tempo and OpenTelemetry. I write about what I run at [rushabhshah.dev](https://rushabhshah.dev).
 
 ### 🎤 Talks
 
@@ -41,7 +41,7 @@ Everything in one place: [CNCF ContribCard](https://contribcard.cncf.io/iamrusha
 
 ### 🤝 Community
 
-Organiser of [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/), co-organiser of Cloud Native Vadodara, core team at CNCG Gandhinagar, and volunteer at KCD Gujarat 2026. Giving your first talk? [Book 20 minutes](https://calendar.app.google/fFL7eubAdig7KZJo9) and I'll help with the slides.
+Organiser of [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/), organiser of Cloud Native Vadodara, core team at CNCG Gandhinagar, and volunteer at KCD Gujarat 2026. Giving your first talk? [Book 20 minutes](https://calendar.app.google/fFL7eubAdig7KZJo9) and I'll help with the slides.
 
 ### ✍️ Latest from the blog
 
