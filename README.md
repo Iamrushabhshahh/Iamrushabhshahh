@@ -8,14 +8,16 @@ I run production Kubernetes at a fintech in Ahmedabad, India. My work is GitOps 
 
 ### 🎤 Talks
 
+<!-- TALKS-LIST:START -->
 | When | Event | Talk |
 |---|---|---|
 | 8 Oct 2026 | PromCon EU, Munich | From Buckets to Native Histograms: Lessons from a Production Migration · [▶ Watch](https://www.youtube.com/watch?v=hQic5lvKCNg) |
-| 9 Nov 2026 | FluxCon NA, Salt Lake City | Your Git Repo Is Not a Backup: Kubernetes DR with Flux and Velero · [▶ Watch](https://www.youtube.com/watch?v=2SkFXK_NLKY) |
+| 9 Nov 2026 | FluxCon NA, Salt Lake City | Your Git Repo Is Not a Backup: Kubernetes Disaster Recovery with Flux and Velero · [▶ Watch](https://www.youtube.com/watch?v=2SkFXK_NLKY) |
 | 8 Dec 2026 | Open Source Summit Japan, Tokyo | Closing the Ma (間): Filling the Gaps in Kubernetes Visibility with Headlamp |
 | 10 Dec 2026 | SONiC Workshop at ONE Summit Japan, Tokyo | Your Switch Config Deserves a Pull Request: Testing SONiC Changes with containerlab |
 | 10 Dec 2026 | SONiC Workshop at ONE Summit Japan, Tokyo | A Switch Is Just Containers: Debugging SONiC with the Tools You Already Know |
 | 11 Dec 2026 | Open Compliance Summit, Tokyo | A Tag Is a Lie |
+<!-- TALKS-LIST:END -->
 
 [All talks and abstracts on Sessionize →](https://sessionize.com/iamrushabhshahh/)
 
