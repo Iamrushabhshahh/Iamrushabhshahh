@@ -10,8 +10,8 @@ I run production Kubernetes at a fintech in Ahmedabad, India. My work is GitOps 
 
 | When | Event | Talk |
 |---|---|---|
-| 8 Oct 2026 | PromCon EU, Munich | From Buckets to Native Histograms: Lessons from a Production Migration · [▶ Watch](https://www.youtube.com/watch?v=BDryNblRXUE&t=18240s) |
-| 9 Nov 2026 | FluxCon NA, Salt Lake City | Your Git Repo Is Not a Backup: Kubernetes DR with Flux and Velero |
+| 8 Oct 2026 | PromCon EU, Munich | From Buckets to Native Histograms: Lessons from a Production Migration · [▶ Watch](https://www.youtube.com/watch?v=hQic5lvKCNg) |
+| 9 Nov 2026 | FluxCon NA, Salt Lake City | Your Git Repo Is Not a Backup: Kubernetes DR with Flux and Velero · [▶ Watch](https://www.youtube.com/watch?v=2SkFXK_NLKY) |
 | 8 Dec 2026 | Open Source Summit Japan, Tokyo | Closing the Ma (間): Filling the Gaps in Kubernetes Visibility with Headlamp |
 | 10 Dec 2026 | SONiC Workshop at ONE Summit Japan, Tokyo | Your Switch Config Deserves a Pull Request: Testing SONiC Changes with containerlab |
 | 10 Dec 2026 | SONiC Workshop at ONE Summit Japan, Tokyo | A Switch Is Just Containers: Debugging SONiC with the Tools You Already Know |
@@ -38,10 +38,11 @@ Everything in one place: [CNCF ContribCard](https://contribcard.cncf.io/iamrusha
 | [whoop-monitoring](https://github.com/Iamrushabhshahh/whoop-monitoring) | WHOOP recovery, sleep and strain data in OpenObserve, with dashboards and alerts |
 | [slack-actions-notify](https://github.com/Iamrushabhshahh/slack-actions-notify) | A GitHub Action that posts your runs, builds and deploys to Slack |
 | [cloud-native-explained](https://github.com/Iamrushabhshahh/cloud-native-explained) | A guided path through cloud native, where every acronym is explained before it's used |
+| [linux-foundation-coupon](https://github.com/Iamrushabhshahh/linux-foundation-coupon) | RUSHABH30: 30% off Linux Foundation and CNCF certifications, bundles and courses, auto-checked daily |
 
 ### 🤝 Community
 
-Organiser of [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/), organiser of Cloud Native Vadodara, core team at CNCG Gandhinagar, and volunteer at KCD Gujarat 2026. Giving your first talk? [Book 20 minutes](https://calendar.app.google/fFL7eubAdig7KZJo9) and I'll help with the slides.
+Organiser of [Grafana & Friends Ahmedabad](https://www.meetup.com/grafana-and-friends-ahmedabad-happy-hour/) and Cloud Native Vadodara, core team at Docker Ahmedabad, and volunteer at KCD Gujarat 2026. Giving your first talk? [Book 20 minutes](https://calendar.app.google/fFL7eubAdig7KZJo9) and I'll help with the slides.
 
 ### ✍️ Latest from the blog
 
